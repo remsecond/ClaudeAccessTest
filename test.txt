@@ -1,1 +1,4 @@
-VGhpcyBpcyBhIHRlc3QgZmlsZSBjcmVhdGVkIHVzaW5nIHRoZSBNQ1AgdG9vbHMu
+{
+  "encoding": "base64",
+  "content": "VGhpcyBpcyBhIHRlc3QgZmlsZSBjcmVhdGVkIHVzaW5nIHRoZSBNQ1AgdG9vbHMu"
+}
