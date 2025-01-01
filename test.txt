@@ -1,5 +1,1 @@
-
-{
-  "encoding": "base64",
-  "content": "VGhpcyBpcyBhIHRlc3QgZmlsZSBjcmVhdGVkIHVzaW5nIHRoZSBNQ1AgdG9vbHMu"
-}
+dGVzdCBjb250ZW50
